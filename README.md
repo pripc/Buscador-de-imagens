@@ -31,9 +31,9 @@ Com esse projeto é possível fazer uma busca de imagens quando o usuário busca
 
 5. Depois de terminar o download do Node JS inicie seu terminal/prompt de comando e digite `node -v`, e em seguida digite `npm - v`;
 
-6. Verifique a versão do seu Node e, caso ela seja for inferior a 5.2.0 do NPM, digite `npm install -g npm` para atualizá-la
+6. Verifique a versão do seu Node e, caso ela seja inferior a 5.2.0 do NPM, digite `npm install -g npm` para atualizá-la
 
-4. Abra o editor de código de sua preferência (recomendo o VSCode) e encontre a pasta do arquivo extraído do ZIP;
+4. Abra o editor de código de sua preferência (recomendo o VSCode) e já dentro do editor, abra a pasta do arquivo extraído do ZIP;
 
 5. No terminal do editor de código digite `npm start`;
 
@@ -41,7 +41,7 @@ Com esse projeto é possível fazer uma busca de imagens quando o usuário busca
 
 ![image](https://user-images.githubusercontent.com/117996744/217616355-0f0ebd71-33fc-4395-a2c5-ca6db917ddaa.png)
 
-7. Automatocamento ele irá abrir o projeto no seu browser padrão. 
+7. Automaticamento ele irá abrir o projeto no seu browser padrão. 
 
 8. Prontinho, você acessou o projeto e já pode usá-lo 🥳. 
 
