@@ -5,8 +5,10 @@ const ImageList = (props) => {
        return <img key={image.id} src={image.webformatURL} alt="image"/>
     })
     return (
-        <div>
-           {images}
+        <div className="ui grid " >
+            <div className="column ui centered grid" style={{width:'80%'}}>
+            {images}
+            </div>
         </div>
     )
 }
