@@ -1,70 +1,48 @@
-# Getting Started with Create React App
+# Buscador de imagens
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Objetivo 🎯
 
-## Available Scripts
+Com esse projeto é possível fazer uma busca de imagens quando o usuário busca a palavra chave em inglês.
 
-In the project directory, you can run:
+<p>
+<img width= "600" src="src/components/toReadMe/demo.gif">
+</p>
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Tecnologia 💻
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Get started 🏁
 
-### `npm run build`
+1. Primeiro você deve baixar o diretório, para isso você deve clica no ícone "Code" apresentado abaixo o abaixo e logo em seguida
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![image](https://user-images.githubusercontent.com/117996744/217611330-4b1fc1ff-9b4e-492f-9b89-9e39815ae341.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+2. Em seguida clicar em Download ZIP
 
-### `npm run eject`
+![image](https://user-images.githubusercontent.com/117996744/217611849-df977cc5-2f60-4430-911c-1ccfc6555776.png)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+3. Encontre o arquivo ZIP baixado e o extraia para um  local de sua preferência;
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+4. Para visualizar o projeto você precisará instalar o NodeJs, então para isso você deve acessar o site do  <a rel= 'nodeJS' href="https://nodejs.org/en/" value= "Node Js">Node  JS</a> e clicar em baixar a opção recomendada ('Recommended For Most Users');
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+5. Depois de terminar o download do Node JS inicie seu terminal/prompt de comando e digite `node -v`, e em seguida digite `npm - v`;
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+6. Verifique a versão do seu Node e, caso ela seja for inferior a 5.2.0 do NPM, digite `npm install -g npm` para atualizá-la
 
-## Learn More
+4. Abra o editor de código de sua preferência (recomendo o VSCode) e encontre a pasta do arquivo extraído do ZIP;
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+5. No terminal do editor de código digite `npm start`;
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+6. Aguarde até que apareça a mensagem abaixo no seu terminal: 
 
-### Code Splitting
+![image](https://user-images.githubusercontent.com/117996744/217616355-0f0ebd71-33fc-4395-a2c5-ca6db917ddaa.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+7. Automatocamento ele irá abrir o projeto no seu browser padrão. 
 
-### Analyzing the Bundle Size
+8. Prontinho, você acessou o projeto e já pode usá-lo 🥳. 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
